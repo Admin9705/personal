@@ -4,7 +4,7 @@ netdata2 () {
 
 container_reset
 # VARIABLES ####################################################################
-pgrole="netdata"
+pgrole="netdata2"
 port_inside01="19999"
 port_outside01="19999"
 traefik_extport="19999"
